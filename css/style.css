@@ -8,5 +8,5 @@ body, html{
   height: 100%;
   position: relative;
   background-color: #fff;
-  background: url(images/ajax-loader.gif) no-repeat center;
+  background: url(../images/ajax-loader.gif) no-repeat center;
 }
